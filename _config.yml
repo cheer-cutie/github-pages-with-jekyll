@@ -1,3 +1,5 @@
+future: true
+timezone: TIMEZONE
 theme: minima
 title: CHEER's PERSONAL WEBSITE~
 author: Cheer Chang
